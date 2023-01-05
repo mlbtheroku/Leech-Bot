@@ -2,6 +2,6 @@ aiohttp
 aria2p
 hachoir
 Pillow
-https://github.com/prgofficial/pyrogram
+https://github.com/prgofficial/pyrogram/archive/asyncio.zip
 tgcrypto
 youtube-dl
